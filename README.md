@@ -60,6 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinadeem13&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
+> ⚠️ **Note:** GitHub Stats reflect only public repositories.  
+> My **private and organization contributions** are visible in the **contribution graph above**.
+
 ---
 
 ### 🌟 Featured Projects

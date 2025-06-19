@@ -61,7 +61,7 @@
 </p>
 
 > ⚠️ **Note:** GitHub Stats reflect only public repositories.  
-> My **private and organization contributions** are visible in the **contribution graph above**.
+> My **private and organization contributions** are visible in the **contribution graph below**.
 
 ---
 

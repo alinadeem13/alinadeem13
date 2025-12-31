@@ -7,7 +7,7 @@
   
 ---  v 
     
-### 👨‍💻 About Me  
+### 👨‍💻 About Me   
  
 - 🎓 Bachelor's degree in **Computer Science **    
 - 💼 Currently working as a **MERN Stack Developer** at a software house  

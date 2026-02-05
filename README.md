@@ -15,7 +15,7 @@
 - 💡 Started coding with **C++**, now working with **modern full stack technologies**  
 - 📱 Develops Android apps in **Kotlin** with beautiful UI & animations   
 - 🚀 Passionate about **AI**, **clean code**, and scalable architectures 
-
+ 
 ---
 
 ### 🛠️ Tech Stack

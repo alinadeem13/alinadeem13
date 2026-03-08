@@ -8,7 +8,7 @@
        
 ### 👨‍💻 About Me        
    
-- 🎓 Master's degree in **Computer Science **  
+- 🎓 Master's degree in **Computer Science **   
 - 🎓 Bachelor's degree in **Computer Science **      
 - 💼 Currently working as a **MERN Stack Developer** at a software house     
 - 💻 2+ years of industry experience building **SaaS** & **business-level applications**  

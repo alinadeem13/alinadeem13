@@ -14,7 +14,7 @@
 - 💻 2+ years of industry experience building **SaaS** & **business-level applications**   
 - 💡 Started coding with **C++**, now working with **modern full stack technologies**   
 - 📱 Develops Android apps in **Kotlin** with beautiful UI & animations   
-- 🚀 Passionate about **AI**, **clean code**, and scalable architectures  
+- 🚀 Passionate about **AI**, **clean code**, and scalable architectures   
   
 ---
 

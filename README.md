@@ -6,7 +6,7 @@
 </p>  
     
         
-### 👨‍💻 About Me         
+### 👨‍💻 About Me          
     
 - 🎓 Master's degree in **Computer Science **   
 - 🎓 Bachelor's degree in **Computer Science **      

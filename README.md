@@ -1,4 +1,5 @@
-    <h1 align="center">Hi 👋, I'm Ali Nadeem</h1>
+
+<h1 align="center">Hi 👋, I'm Ali Nadeem</h1>
 <h3 align="center">A passionate Full Stack Developer & AI Enthusiast</h3>
 
 <!-- <p align="center">
